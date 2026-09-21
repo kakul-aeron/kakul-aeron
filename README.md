@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**kakul-aeron/kakul-aeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **kakul-aeron** — a developer currently learning **web development** and **SDE (Software Development Engineer)** skills.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- Building projects to strengthen my web development fundamentals
+- Studying data structures & algorithms for SDE interviews
+- Exploring modern frontend frameworks and backend technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- **Frontend:** React, TypeScript, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, databases (SQL/NoSQL)
+- **CS Fundamentals:** Data structures, algorithms, system design
+- **Tools:** Git, Docker, CI/CD, testing
+
+### 👯 Looking to Collaborate On
+- Open source projects suitable for beginners
+- Web development projects
+- Learning-focused coding challenges
+
+### 💬 Ask Me About
+- Web development learning resources
+- JavaScript/TypeScript fundamentals
+- Frontend project structure
+- Interview preparation for SDE roles
+
+### 📫 How to Reach Me
+- **Email:** kakulaeron1106@gmail.com
+- **LinkedIn:** [kakulaeronn1106](https://www.linkedin.com/in/kakulaeronn1106/)
+- **LeetCode:** [kakul_aeron](https://leetcode.com/u/kakul_aeron/)
+
+### ⚡ Fun Fact
+Every bug I fix teaches me something new — and I'm collecting quite the education! 🐛📚
