@@ -18,12 +18,6 @@ I'm **kakul-aeron** — a developer currently learning **Web Development** and *
 - Web development projects
 - Learning-focused coding challenges
 
-### 💬 Ask Me About
-- Web development learning resources
-- JavaScript/TypeScript fundamentals
-- Frontend project structure
-- Interview preparation for SDE roles
-
 ### 📫 How to Reach Me
 - **Email:** kakulaeron1106@gmail.com
 - **LinkedIn:** [kakulaeronn1106](https://www.linkedin.com/in/kakulaeronn1106/)
