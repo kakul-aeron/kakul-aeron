@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **kakul-aeron** — a developer currently learning **web development** and **SDE (Software Development Engineer)** skills.
+I'm **kakul-aeron** — a developer currently learning **Web Development** and **SDE (Software Development Engineer)** skills.
 
 ### 🔭 Currently Working On
 - Building projects to strengthen my web development fundamentals
