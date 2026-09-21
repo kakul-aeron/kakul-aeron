@@ -8,7 +8,7 @@ I'm **kakul-aeron** — a developer currently learning **Web Development** and *
 - Exploring modern frontend frameworks and backend technologies
 
 ### 🌱 Currently Learning
-- **Frontend:** React, TypeScript, Next.js, Tailwind CSS
+- **Frontend:** React, TypeScript, Next.js
 - **Backend:** Node.js, Express, databases (SQL/NoSQL)
 - **CS Fundamentals:** Data structures, algorithms, system design
 - **Tools:** Git, Docker, CI/CD, testing
